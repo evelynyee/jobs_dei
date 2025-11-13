@@ -15,7 +15,7 @@ Evelyn Yee
 
 **Data:** US AI/ML job postings before and after February 2025
 - Before: https://www.kaggle.com/datasets/kanchana1990/ai-and-ml-job-listings-usa
-    - 1M rows, Latest dated June 2024.
+    - 1K? rows, Latest dated June 2024.
 - After: https://www.kaggle.com/datasets/ivankmk/thousand-ml-jobs-in-usa
     - 858 rows from March 2025 or later; 139 from February 2025 or earlier.
 
